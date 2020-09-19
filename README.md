@@ -7,8 +7,7 @@ Performing analysis on kickstarter data to uncover trends
 
 ### Purpose
 
-how different campaigns fared in relation to their launch dates and their funding goals
-
+Using Pivot table and graph in excel to find outcome of different campaigns based on their launch dates and their funding goals
 
 ## Analysis and Challenges
 
