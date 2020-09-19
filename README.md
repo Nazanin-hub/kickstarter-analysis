@@ -13,7 +13,7 @@ Using Pivot table and graph in excel to find outcome of different campaigns base
 
 ### Analysis of Outcomes Based on Launch Date
 
-Beased on following graph,in January, the number of successful projects is 56, while the number of failed projects is 33 and canceled projects is 7. The number of successful projects is rising up during Jan to May however it has one fluctuation between Jan to March.During March to May, it experienced a rapid surge to 111 and it reaches it's peak in May. Then, it dramatically declines to 37 in December. The trend of failed projects shows a similar pattern. It is gradually rising up during Jan to May and it has one fluctuation in Feb. It reaches it's peak in May and then continued with a gradual decrease to 31 in Nov. However it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together before it decreses again.
+Beased on following graph,in January, the number of successful projects is 56, while the number of failed projects is 33 and canceled projects is 7. The number of successful projects is rising up during Jan to May however it has one fluctuation between Jan to March.During March to May, it experienced a rapid surge to 111 and it reaches it's peak in May. Then, it dramatically declines to 37 in December. The trend of failed projects shows a similar pattern. It is gradually rising up during Jan to May and it has one fluctuation in Feb. It reaches it's peak in May and then continued with a gradual decrease to 31 in Nov. However it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together.
 
 ![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Theater%20_outcomes%20_vs_launch.png)
 
