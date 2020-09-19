@@ -79,13 +79,13 @@ Beased on following graph, 75.8% of projects are successful with the lowest amou
 
   1. With minimum amount of goal, there is a highest percentage of successful plays.
   
-  2. As amount of goals increases, the percentage of success decreases.
+  2. As the amount of goals increases, the percentage of success decreases.
   
-  3. There isn't any canceled projects for plays subcategory.
+  3. There isn't any canceled projects for Plays subcategory.
 
 - What are some limitations of this dataset?
 
-  1. Varaiance of backers has not been considered in this dataset. It is very important because we should know hou much money each backer has invested.
+  1. Varaiance of backers' donations has not been considered in this dataset. It gives us a sort of understanding about the distibution of donations.
 
   2. Percentage of pledged has not been considered in this dataset.
   
