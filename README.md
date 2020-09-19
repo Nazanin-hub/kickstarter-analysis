@@ -14,9 +14,15 @@ how different campaigns fared in relation to their launch dates and their fundin
 
 ### Analysis of Outcomes Based on Launch Date
 
+In January, the number of successful projects was 56, while the number of failed projects was 33 and canceled projects was 7. The number of successful projects is rising up during Jan to May however it has one fluctuation between Jan to March. It reached it's peak in May. During March to May, it experienced a rapid surge to 111 and then it dramatically declined to 37 in December. The trend of failed projects is aproximately the same. It is gradually rising up during Jan to May and it has one fluctuation in Feb. It reached it's peak in May and then continued with a gradual decrease to 31 in Nov. However it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together.
+
 https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
 
 ### Analysis of Outcomes Based on Goals
+
+
+
+
 
 ### Challenges and Difficulties Encountered
 
