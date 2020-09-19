@@ -14,12 +14,14 @@ how different campaigns fared in relation to their launch dates and their fundin
 
 ### Analysis of Outcomes Based on Launch Date
 
-In January, the number of successful projects was 56, while the number of failed projects was 33 and canceled projects was 7. The number of successful projects is rising up during Jan to May however it has one fluctuation between Jan to March. It reached it's peak in May. During March to May, it experienced a rapid surge to 111 and then it dramatically declined to 37 in December. The trend of failed projects is aproximately the same. It is gradually rising up during Jan to May and it has one fluctuation in Feb. It reached it's peak in May and then continued with a gradual decrease to 31 in Nov. However it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together.
-
-https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
+Beased on following graph,in January, the number of successful projects is 56, while the number of failed projects is 33 and canceled projects is 7. The number of successful projects is rising up during Jan to May however it has one fluctuation between Jan to March.During March to May, it experienced a rapid surge to 111 and it reaches it's peak in May.Then, it dramatically declines to 37 in December.  The trend of failed projects shows a similar pattern. It is gradually rising up during Jan to May and it has one fluctuation in Feb. It reaches it's peak in May and then continued with a gradual decrease to 31 in Nov. However it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together.
+https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Theater%20_outcomes%20_vs_launch.png
 
 ### Analysis of Outcomes Based on Goals
 
+Beased on following graph, 75.8% of projects are successful with the lowest amount of goal. Then, it slightly dropped from 75.8% to 45%. Then, it significantly decreased to 20% and reached a lowpoint with amount of goal between 25000 to 30000. Then, it rised to 66.67% and remained steady between 35000 to 50000 goals. After that, it sharpley declined to the lowest point between 45000 to 50000. Then, it again increased to 12.5%. The trend for the number of failed projects is reverse. At first, it is in the lowest point with amount of goal less than 10000. Then, it rises up to 45% and then it gently rised to 80%. After that, it sharpley dropped to 33.3%.Again, it dramatically grows up to 100% and it reaches the highest percentage of failed projects.
+
+https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
 
 
 
