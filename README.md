@@ -14,6 +14,8 @@ how different campaigns fared in relation to their launch dates and their fundin
 
 ### Analysis of Outcomes Based on Launch Date
 
+https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
@@ -60,8 +62,18 @@ how different campaigns fared in relation to their launch dates and their fundin
 
 - What are some limitations of this dataset?
 
+  1.Varaiance of backers has not been considered in this dataset. It is very important because we should know hou much money each backer has invested.
 
+  2. Percentage of pledged has not been considered in this dataset.
+  
+  3. State or city of each country has not been mentioned in this dataset. 
 
 - What are some other possible tables and/or graphs that we could create?
 
- 1. Create one graph that shows outcome based on donation
+  1. Creating one graph that shows outcomes based on parent category and subcategory.
+  
+  2. Creating one graph that shows outcomes based on country(location).
+
+  3. Creating one graph that shows outcome based on donation.
+  
+  4. Creating one graph that shows outcome based on pledged.
