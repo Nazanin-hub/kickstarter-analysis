@@ -19,7 +19,7 @@ Beased on following graph,in January, the number of successful projects is 56, w
 
 ### Analysis of Outcomes Based on Goals
 
-Beased on following graph, 75.8% of projects are successful with the lowest amount of goal. Then, it slightly dropps from 75.8% to 45%. Then, it significantly decreases to 20% and reaches a lowpoint with amount of goal between $25000 to $30000. Then, it rises to 66.67% and remained steady between $35000 to $50000 goals. After that, it sharpley declines to zero between $45000 to $50000. Then, it again increases to 12.5%. The trend for the number of failed projects is exatctly reversed. At first, it is in the lowest point with amount of goal less than 10000. Then, it rises up to 45% and then it gently rises to 80%. After that, it sharpley droppes to 33.3%.Again, it dramatically grows up to 100% and it reaches the highest percentage of failed projects.
+Beased on following graph, 75.8% of projects are successful with the lowest amount of goal. Then, it slightly dropps from 75.8% to 45%. Then, it significantly decreases to 20% and reaches a lowpoint with amount of goal between $25000 to $30000. Then, it rises to 66.67% and remained steady between $35000 to $50000 goals. After that, it sharpley declines to zero between $45000 to $50000. Then, it again increases to 12.5%. The trend for the number of failed projects is exatctly reversed. At first, it is in the lowest point with amount of goal less than 10000. Then, it rises up to 45% and then it gently rises to 80%. After that, it sharpley droppes to 33.3%.Again, it dramatically grows up to 100% and it reaches the highest percentage of failed projects before it decreses again.
 
 ![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
