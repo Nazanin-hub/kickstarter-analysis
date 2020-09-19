@@ -62,7 +62,7 @@ https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goal
 
 - What are some limitations of this dataset?
 
-  1.Varaiance of backers has not been considered in this dataset. It is very important because we should know hou much money each backer has invested.
+  1. Varaiance of backers has not been considered in this dataset. It is very important because we should know hou much money each backer has invested.
 
   2. Percentage of pledged has not been considered in this dataset.
   
