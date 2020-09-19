@@ -30,9 +30,24 @@ Beased on following graph, 75.8% of projects are successful with the lowest amou
 
 #### My Challenges:
 
--part 2: 
+-part 2:
+      
+      ###### Challenges
 
       1.How to use COUNTIFS() function to populate the "number successful", "Number failed", and "number canceled" columns.
+      
+      ##### Solutions
+      
+      I chose collumns F, P and D from sheet one of the dataset and coded the numbers for the three desired parameters as follows:
+            
+           number successful:
+                              =COUNTIFS(Sheet1!F2:F4115,"successful",Sheet1!P2:P4115,"plays",Sheet1!D2:D4115,"$$desired interval")
+           Number failed:
+                              =COUNTIFS(Sheet1!F2:F4115,"failed",Sheet1!P2:P4115,"plays",Sheet1!D2:D4115,"$$desired interval")
+           Number canceled:
+                              =COUNTIFS(Sheet1!F2:F4115,"canceled",Sheet1!P2:P4115,"plays",Sheet1!D2:D4115,"$$desired interval")
+      
+      
 
 #### Possible Challenges:
 
