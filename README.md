@@ -38,9 +38,9 @@ Beased on following graph, 75.8% of projects are successful with the lowest amou
       
       ##### Solutions
       
-      I chose collumns F, P and D from sheet one of the dataset and calcuaolated the numbers for the three desired parameters as follows:
+      I chose collumns F, P and D from sheet one of the dataset and calculated the numbers for the three desired parameters as follows:
             
-           number successful:
+           Number successful:
                               =COUNTIFS(Sheet1!F2:F4115,"successful",Sheet1!P2:P4115,"plays",Sheet1!D2:D4115,"$$desired interval")
            Number failed:
                               =COUNTIFS(Sheet1!F2:F4115,"failed",Sheet1!P2:P4115,"plays",Sheet1!D2:D4115,"$$desired interval")
