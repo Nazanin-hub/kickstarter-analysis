@@ -7,19 +7,19 @@ Performing analysis on kickstarter data to uncover trends
 
 ### Purpose
 
-Using Pivot table and graph in excel to find outcome of different campaigns based on their launch dates and their funding goals.
+Using Pivot tables and graphing in excel to visualize outcomes of different campaigns based on their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-Beased on following graph,in January, the number of successful projects is 56, while the number of failed projects is 33 and canceled projects is 7. The number of successful projects is rising up during Jan to May however it has one fluctuation between Jan to March.During March to May, it experienced a rapid surge to 111 and it reaches it's peak in May. Then, it dramatically declines to 37 in December. The trend of failed projects shows a similar pattern. It is gradually rising up during Jan to May and it has one fluctuation in Feb. It reaches it's peak in May and then continued with a gradual decrease to 31 in Nov. However it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together.
+Based on the following graph,in January, the number of successful projects is 56, while the number of failed projects is 33 and canceled projects is 7. The number of successful projects is rising up from Jan to May however it has one fluctuation between Jan to March.During March to May, it experienced a rapid surge to 111 and it reaches its peak in May. Then, it dramatically declines to 37 in December. The trend of failed projects shows a similar pattern. It is gradually rising up from Jan to May and it has one fluctuation in Feb. It reaches its peak in May and then continued with a gradual decrease to 31 in Nov. However it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together.
 
 ![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Theater%20_outcomes%20_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-Beased on following graph, 75.8% of projects are successful with the lowest amount of goal. Then, it slightly dropps from 75.8% to 45%. Then, it significantly decreases to 20% and reaches a lowpoint with amount of goal between $25000 to $30000. Then, it rises to 66.67% and remained steady between $35000 to $50000 goals. After that, it sharpley declines to zero between $45000 to $50000. Then, it again increases to 12.5%. The trend for the number of failed projects is exatctly reversed. At first, it is in the lowest point with amount of goal less than $10000. Then, it rises up to 45% and then it gently rises to 80%. After that, it sharpley droppes to 33.3%.Again, it dramatically grows up to 100% and it reaches the highest percentage of failed projects before it decreses again.
+Based on the following graph, 75.8% of projects are successful with the lowest amount of goal. Then, it slightly drops from 75.8% to 45%. Then, it significantly decreases to 20% and reaches a low point with the amount of goal between $25000 to $30000. Then, it rises to 66.67% and remained steady between $35000 to $50000 goals. After that, it sharply declines to zero between $45000 to $50000. Then, it again increases to 12.5%. The trend for the number of failed projects is exactly reversed. At first, it is at the lowest point with the amount of goal less than $10000. Then, it rises up to 45% and then it gently rises to 80%. After that, it sharply dropped to 33.3%. Again, it dramatically grows up to 100% and it reaches the highest percentage of failed projects before it decreases again.
 
 ![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
@@ -85,7 +85,7 @@ Beased on following graph, 75.8% of projects are successful with the lowest amou
 
 - What are some limitations of this dataset?
 
-  1. Varaiance of backers' donations has not been considered in this dataset. It gives us a sort of understanding about the distibution of donations.
+  1. Variance of backers' donations has not been considered in this dataset. It gives us a sort of understanding of the distribution of donations.
 
   2. Percentage of pledged has not been considered in this dataset.
   
@@ -93,10 +93,10 @@ Beased on following graph, 75.8% of projects are successful with the lowest amou
 
 - What are some other possible tables and/or graphs that we could create?
 
-  1. Creating one graph that shows outcomes based on parent category and subcategory.
+  1. Creating one graph that shows outcomes based on the parent category and subcategory.
   
   2. Creating one graph that shows outcomes based on country(location).
 
-  3. Creating one graph that shows outcome based on donation.
+  3. Creating one graph that shows outcomes based on donation.
   
-  4. Creating one graph that shows outcome based on pledged.
+  4. Creating one graph that shows outcomes based on pledged.
