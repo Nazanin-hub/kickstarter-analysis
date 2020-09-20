@@ -97,6 +97,6 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
   
   2. Creating one graph that shows outcomes based on country(location).
 
-  3. Creating one graph that shows outcomes based on donation.
+  3. Creating one graph that shows outcomes based on average donation.
   
   4. Creating one graph that shows outcomes based on pledged.
