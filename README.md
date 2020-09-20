@@ -32,11 +32,11 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
 
 -part 2:
       
-       Challenges
+       **Challenges:**
 
       1.How to use COUNTIFS() function to calculate the "number successful", "Number failed", and "number canceled" columns.
       
-       Solutions
+       **Solutions:**
       
       I chose collumns F, P and D from sheet one of the dataset and calculated the numbers for the three desired parameters as follows:
             
