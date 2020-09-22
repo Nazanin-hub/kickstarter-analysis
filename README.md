@@ -5,6 +5,8 @@ Performing analysis on kickstarter data to uncover trends
 
 ## Overview of Project
 
+Helping an up-and-coming playwright,Louise, who wants to start a crowdfunding campaign to help fund her play,Fever. She wants to know how different campaigns fared in relation to their launch dates and their funding goals. So, I used Kickstarter dataset to help Louise with her project by creating Pivottable, charts and graphs.
+
 ### Purpose
 
 Using Pivot tables and graphing in excel to visualize outcomes of different campaigns based on their launch dates and their funding goals.
@@ -38,7 +40,7 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
       
             Solutions:
       
-                        I chose collumns F, P and D from the KickStarter worksheet and calculated the numbers for the three desired parameters as follows:
+                        I chose collumns F, P and D from the KickStarter worksheet and calculated the numbers for the three desired criteria as follows:
             
                         Number successful:
                                           =COUNTIFS(KickStarter!F2:F4115,"successful",KickStarter!P2:P4115,"plays",KickStarter!D2:D4115,"$$desired interval")
