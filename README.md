@@ -30,13 +30,13 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
 
 #### My Challenges:
 
--part 2:
+#####part 2:
       
-       Challenges:
+       ######Challenges:
 
          How to use COUNTIFS() function to calculate the "number successful", "Number failed", and "number canceled" columns.
       
-       Solutions:
+       ######Solutions:
       
          I chose collumns F, P and D from sheet one of the dataset and calculated the numbers for the three desired parameters as follows:
             
@@ -51,14 +51,14 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
 
 #### Possible Challenges:
 
--Part1: 
+#####Part1: 
 
       1.How to use YEAR() function to extract the year from the " Date Created Conversion" coloumn.
       
       2.How to group the column to show just the months of the year in Pivot table.
       
       
--Part2:
+#####Part2:
 
       1.How to use COUNTIFS() function with considering some criteria at the same time
       
