@@ -5,7 +5,7 @@ Performing analysis on kickstarter data to uncover trends
 
 ## Overview of Project
 
-Helping an up-and-coming playwright,Louise, who wants to start a crowdfunding campaign to help fund her play,Fever. She wants to know how different campaigns fared in relation to their launch dates and their funding goals. So, I used Kickstarter dataset to help Louise with her project by creating Pivottable, charts and graphs.
+Helping an up-and-coming playwright,Louise, who wants to start a crowdfunding campaign to help fund her play,Fever. She wants to know how different campaigns fared in relation to their launch dates and their funding goals. So, I used Kickstarter dataset to help Louise with her project by creating Pivot table, charts and graphs.
 
 ### Purpose
 
