@@ -91,7 +91,7 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
 
   2. Percentage of pledged has not been considered in this dataset.
   
-  3. State or city of each country has not been mentioned in this dataset. 
+  3. State or city of each country has not been mentioned in this dataset.
 
 - What are some other possible tables and/or graphs that we could create?
 
