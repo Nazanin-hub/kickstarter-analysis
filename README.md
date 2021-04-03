@@ -11,6 +11,11 @@ Helping an up-and-coming playwright,Louise, who wants to start a crowdfunding ca
 
 Using Pivot tables and graphing in excel to visualize outcomes of different campaigns based on their launch dates and their funding goals.
 
+## Resources
+
+  - Data Source: election_results.xlx
+  - Software: Excel
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
