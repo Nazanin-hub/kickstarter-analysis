@@ -31,8 +31,6 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
 ![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 
-
-
 ### Challenges and Difficulties Encountered
 
 #### My Challenges:
@@ -80,7 +78,7 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
   
   2. The maximum number of successful projects occurred in May.
   
-  3. The number of successful projects during the spring and summer seasons are more than other seasons.
+  3. The number of successful projects during the spring and summer seasons is more than other seasons.
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -88,15 +86,15 @@ Based on the following graph, 75.8% of projects are successful with the lowest a
   
   2. As the amount of goals increases, the percentage of success decreases.
   
-  3. There isn't any canceled projects for Plays subcategory.
+  3. There aren't any canceled projects for Plays subcategory.
 
 - What are some limitations of this dataset?
 
-  1. Variance of backers' donations has not been considered in this dataset. It gives us a sort of understanding of the distribution of donations.
+  1. The Variance of backers' donations has not been considered in this dataset. It gives us a sort of understanding of the distribution of donations.
 
-  2. Percentage of pledged has not been considered in this dataset.
+  2. The Percentage of pledged has not been considered in this dataset.
   
-  3. State or city of each country has not been mentioned in this dataset.
+  3. The State or city of each country has not been mentioned in this dataset.
 
 - What are some other possible tables and/or graphs that we could create?
 
