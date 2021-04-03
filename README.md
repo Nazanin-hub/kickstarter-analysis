@@ -28,7 +28,7 @@ Based on the following graph,in January, the number of successful projects is 56
 
 Based on the following graph, 75.8% of projects are successful with the lowest amount of goal. Then, it slightly drops from 75.8% to 45%. Then, it significantly decreases to 20% and reaches a low point with the amount of goal between $25000 to $30000. Then, it rises to 66.67% and remained steady between $35000 to $50000 goals. After that, it sharply declines to zero between $45000 to $50000. Then, it again increases to 12.5%. The trend for the number of failed projects is exactly reversed. At first, it is at the lowest point with the amount of goal less than $1000. Then, it rises up to 45% and then it gently rises to 80%. After that, it sharply drops to 33.3%. Again, it dramatically grows up to 100% and it reaches the highest percentage of failed projects before it decreases again.
 
-![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
+![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
