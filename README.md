@@ -13,7 +13,7 @@ Using Pivot tables and graphing in excel to visualize outcomes of different camp
 
 ## Resources
 
-  - Data Source: election_results.xlx
+  - Data Source: Kickstarter dataset.xlsx
   - Software: Excel
 
 ## Analysis and Challenges
