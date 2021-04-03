@@ -22,7 +22,7 @@ Using Pivot tables and graphing in excel to visualize outcomes of different camp
 
 Based on the following graph,in January, the number of successful projects is 56, while the number of failed projects is 33 and canceled projects is 7. The number of successful projects is rising up from Jan to May. However, it has one fluctuation between Jan to March. During March to May, it experienced a rapid surge to 111 and it reaches its peak in May. Then, it dramatically declines to 37 in December. The trend of failed projects shows a similar pattern. It is gradually rising up from Jan to May and it has one fluctuation in Feb. It reaches its peak in May and then continued with a gradual decrease to 31 in Nov. However, it has a big jump in Oct. Finally, in Dec, the number of successful and failed projects are close together.
 
-![] (https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Resources/Theater%20_outcomes%20_vs_launch.png)
+![](https://github.com/Nazanin-hub/kickstarter-analysis/blob/master/Resources/Theater%20_outcomes%20_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
